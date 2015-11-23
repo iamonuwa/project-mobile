@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--<EditTextPreference-->
+        <!--android:title="Class"-->
+        <!--android:key="class"-->
+        <!--android:defaultValue="HND2"-->
+        <!--android:inputType="text"-->
+        <!--android:singleLine="true"/>-->
+
+    <ListPreference
+        android:title="Class"
+        android:key="classes"
+        android:defaultValue="HND 2"
+        android:entries="@array/classes"
+        android:entryValues="@array/classes_values"/>
+
+</PreferenceScreen>

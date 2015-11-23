@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">App</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="title_activity_course">CourseActivity</string>
+    <string name="title_activity_details">DetailsActivity</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string-array name="classes">
+        <item>HND 2</item>
+        <item>HND 1</item>
+        <item>ND 2</item>
+        <item>ND 1</item>
+    </string-array>
+    <string-array name="classes_values">
+        <item>hnd2</item>
+        <item>hnd1</item>
+        <item>nd2</item>
+        <item>nd1</item>
+    </string-array>
+</resources>
